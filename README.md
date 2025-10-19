@@ -64,6 +64,6 @@ You can view the detailed documentation and plots here:
 
 This marks the **completion of Week 4**, the final week of the Analog/Device simulation phase in our tapeout journey.
 
-Next, in 👉 [**Week 5 – STA and Timing Closure (Sign-off Analysis)**](https://github.com/Nideshkanna/week5_STA_TimingClosure_sky130), you’ll apply the transistor-level insights from this week to timing verification and sign-off of the RISC-V SoC design. 🕒✨
+Next, in 👉 [**Week 5 – STA and Timing Closure (Sign-off Analysis)**](https://github.com/Techwithram/week5_STA_TimingClosure_sky130), you’ll apply the transistor-level insights from this week to timing verification and sign-off of the RISC-V SoC design. 🕒✨
 
 ---
