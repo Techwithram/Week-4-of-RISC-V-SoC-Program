@@ -56,7 +56,7 @@ Each day folder includes:
 ## 🔗 Week 4 Main Report
 
 You can view the detailed documentation and plots here:
-➡️ [**Week 4 – CMOS Circuit Design using Sky130 PDK**](https://github.com/Nideshkanna/week4_CMOS_Circuit_Design_sky130/blob/main/README.md)
+➡️ [**Week 4 – CMOS Circuit Design using Sky130 PDK**](https://github.com/Techwithram/Week-4-of-RISC-V-SoC-Program)
 
 ---
 
